@@ -1,24 +1,81 @@
+<div align="center">
+  <img height="200" src="https://wallpaperaccess.com/full/1119441.jpg"  />
+</div>
+
+###
 <h1 align="center">Hi 👋, I'm Gabriel Chilatu Sinkala</h1>
 <h3 align="center">A passionate Web developer from Zambia</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gabriel-chilatu-sinkala&label=Profile%20views&color=0e75b6&style=flat" alt="gabriel-chilatu-sinkala" /> </p>
-
-- 🌱 I’m currently learning **Javascript and PHP**
-
-- 💬 Ask me about **Python, Java, Django, HTML, CSS**
+<p align="left">🎓 I studied Software Engineering, passionate about crafting impactful software solutions.<br><br>💻 Technologies & Skills<br><br>Programming Languages: Proficient in  Python, Java while learning JavaScript, PHP and C#, with experience in frameworks like Django and Flask.<br>Web Development: Developed web applications using Flask and Django, with a focus on creating user-friendly interfaces and robust backends.<br>Database Management: Designed and implemented database schemas.<br><br>🚀 Passion for Growth<br>I’m driven by a desire to continuously learn, explore new technologies, and enhance my skills as a developer. Whether it's solving complex problems, refining architecture, or building intuitive applications, I’m committed to contributing to meaningful projects in the tech industry.<br><br>🤝 Let's Collaborate<br>Open to opportunities in software development, architecture design, and collaborative projects that challenge me to grow as a developer.<br><br>📫 Connect<br>Feel free to reach out for collaborations, discussions, or just to connect!</p>
 
 - 📫 How to reach me **gabrielsinkala07@gmail.com**
+  
+###
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/chilatu sinkala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chilatu sinkala" height="30" width="40" /></a>
-</p>
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Gabriel-Chilatu-Sinkala/count.svg?"  />
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+###
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabriel-chilatu-sinkala&show_icons=true&locale=en&layout=compact" alt="gabriel-chilatu-sinkala" /></p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Gabriel-Chilatu-Sinkala&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gabriel-Chilatu-Sinkala&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gabriel-chilatu-sinkala&show_icons=true&locale=en" alt="gabriel-chilatu-sinkala" /></p>
+###
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gabriel-chilatu-sinkala&" alt="gabriel-chilatu-sinkala" /></p>
+<img src="https://raw.githubusercontent.com/Gabriel-Chilatu-Sinkala/Gabriel-Chilatu-Sinkala/output/snake.svg" alt="Snake animation" />
+
+###
+
+<p align="left">Languages and Tools:</p>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img height="200" src="https://learnworthy.net/wp-content/uploads/2019/08/7-most-in-demand-programming-languages-of-2019-770x515.jpg"  />
+</div>
+
+###
+
+<p align="left"></p>
+
+###
+
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+</div>
+
+###
+
+
+
+
