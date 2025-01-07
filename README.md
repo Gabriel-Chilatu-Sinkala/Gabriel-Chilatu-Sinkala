@@ -1,11 +1,14 @@
-<div align="center">
-  <img height="200" src="https://wallpaperaccess.com/full/1119441.jpg"  />
-</div>
+![Coding Gif](https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif)
 
-###
-<h1 align="center">Hi 👋, I'm Gabriel Chilatu Sinkala</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=90&duration=4000&lines=Hi+There!+👋;+I'm+Gabriel+Chilatu+Sinkala!;" />
+</h1>
 <h3 align="center">A passionate Web developer from Zambia</h3>
-<p align="left">🎓 I studied Software Engineering, passionate about crafting impactful software solutions.<br><br>💻 Technologies & Skills<br><br>Programming Languages: Proficient in  Python, Java while learning JavaScript, PHP and C#, with experience in frameworks like Django and Flask.<br>Web Development: Developed web applications using Flask and Django, with a focus on creating user-friendly interfaces and robust backends.<br>Database Management: Designed and implemented database schemas.<br><br>🚀 Passion for Growth<br>I’m driven by a desire to continuously learn, explore new technologies, and enhance my skills as a developer. Whether it's solving complex problems, refining architecture, or building intuitive applications, I’m committed to contributing to meaningful projects in the tech industry.<br><br>🤝 Let's Collaborate<br>Open to opportunities in software development, architecture design, and collaborative projects that challenge me to grow as a developer.<br><br>📫 Connect<br>Feel free to reach out for collaborations, discussions, or just to connect!</p>
+
+- 💻 Currently learning fullstack development.
+
+<p align="left">🎓 💻 Technologies & Skills<br><br>Programming Languages: Proficient in  Python, Java while learning JavaScript, PHP and C#, with experience in frameworks like Django.<br>Web Development: Developed web applications using Django, with a focus on creating user-friendly interfaces and robust backends.<br><br>🚀 Passion for Growth<br>I’m driven by a desire to continuously learn, explore new technologies, and enhance my skills as a developer. Whether it's solving complex problems, refining architecture, or building intuitive applications, I’m committed to contributing to meaningful projects in the tech industry.<br><br>🤝 Let's Collaborate<br>Open to opportunities in software development, architecture design, and collaborative projects that challenge me to grow as a developer.<br><br>📫 Connect<br>Feel free to reach out for collaborations, discussions, or just to connect!</p>
+
 
 - 📫 How to reach me **gabrielsinkala07@gmail.com**
   
@@ -57,10 +60,9 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://learnworthy.net/wp-content/uploads/2019/08/7-most-in-demand-programming-languages-of-2019-770x515.jpg"  />
+  <img height="200" src="https://wallpaperaccess.com/full/1119441.jpg"  />
 </div>
 
-###
 
 <p align="left"></p>
 
@@ -75,6 +77,7 @@
 </div>
 
 ###
+
 
 
 
