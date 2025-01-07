@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabriel-chilatu-sinkala&label=Profile%20views&color=0e75b6&style=flat" alt="gabriel-chilatu-sinkala" /> </p>
 
-- 🌱 I’m currently learning **PHP**
+- 🌱 I’m currently learning **Javascript and PHP**
 
-- 💬 Ask me about **Python, Django, HTML, CSS**
+- 💬 Ask me about **Python, Java, Django, HTML, CSS**
 
 - 📫 How to reach me **gabrielsinkala07@gmail.com**
 
